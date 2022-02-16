@@ -1,3 +1,2 @@
-# Welcome to TOKR's official documentation repo.
+# TOKR Labs Docs
 
-All information is edited and published from gitbook.
