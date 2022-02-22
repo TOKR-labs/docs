@@ -2,6 +2,6 @@
 
 * [TOKR Labs Docs](README.md)
 
-## Problems/Solutions
+## Challenges/Solutions
 
-* [Problems](problems-solutions/problems.md)
+* [Challenges](challenges-solutions/challenges.md)

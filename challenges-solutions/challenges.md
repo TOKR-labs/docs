@@ -1,6 +1,8 @@
-# Problems
+---
+description: List of challenges that need solving.
+---
 
-List of problems that need solving
+# Challenges
 
 ### Narrowly Scoped
 
