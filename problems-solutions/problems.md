@@ -25,7 +25,4 @@ List of problems that need solving
    1. Leverage full NFT?
    2. Leverage fractional shares?
 2. How can we facilitate transfer of the NFT on sale of the asset?
-
-
-
-1. How to get distributions from a previous raise to the dao members?
+3. How to get equity distribution from a previous raise to the dao members? EX a DAO that already has an asset now wishes to have TOKR DAO mint an NFT and fractionalize it. If we don't know how much each member contributed to the treasury, how could we facilitate this?
