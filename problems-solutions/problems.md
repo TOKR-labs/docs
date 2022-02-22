@@ -10,6 +10,10 @@ List of problems that need solving
 2. How to filter non-TOKR created DAOS on our page?
    1. Can a tag be added on creation of the DAO used in subsequent filters?
 3. How can we get price on the NFT/fractional shares?
+4. What exact docs do we need for TOKR to verify ownership?
+   1. EIN
+   2. Articles of Org
+   3. Title
 
 ### Broadly Scoped
 
