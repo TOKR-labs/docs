@@ -14,7 +14,10 @@ List of problems that need solving
    1. EIN
    2. Articles of Org
    3. Title
-5. Who should have authority over metadata
+   4. etc?
+5. Who should have authority (tokr dao vs peer dao):
+   1. update\_authority
+   2. master vs print
 
 ### Broadly Scoped
 
