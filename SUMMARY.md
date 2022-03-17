@@ -15,3 +15,7 @@
 * [Summary](tokr-protocol-white-paper/summary.md)
 * [References](tokr-protocol-white-paper/references.md)
 * [Disclaimer](tokr-protocol-white-paper/disclaimer.md)
+
+***
+
+* [DORE Library](dore-library.md)
