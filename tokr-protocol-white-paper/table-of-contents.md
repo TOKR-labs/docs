@@ -2,7 +2,7 @@
 
 #### 1 [Introduction](introduction.md)&#x20;
 
-#### 2 The Tokr Protocol&#x20;
+#### 2 [The Tokr Protocol](the-tokr-protocol.md)&#x20;
 
 &#x20; 2.1 Tokrizer rNFT Metadata Standard&#x20;
 
