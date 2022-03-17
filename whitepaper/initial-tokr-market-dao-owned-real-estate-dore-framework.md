@@ -100,7 +100,7 @@ Example valid metadata and documentation that would result in certification by t
             "value": "None"
         },
         {
-            "trait_type": "title_insuranced_by",
+            "trait_type": "title_insured_by",
             "value": "Empora Title, Inc."
         },
         {
