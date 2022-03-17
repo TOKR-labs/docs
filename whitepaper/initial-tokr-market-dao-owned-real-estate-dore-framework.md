@@ -53,7 +53,7 @@ Example valid metadata and documentation that would result in certification by t
     "attributes": [
         {
             "trait_type": "name",
-            "value": "DEMO 1 0317_B"
+            "value": "0 High St"
         },
         {
             "trait_type": "property_address",
@@ -81,7 +81,7 @@ Example valid metadata and documentation that would result in certification by t
         },
         {
             "trait_type": "tax_parcel_numbers",
-            "value": "881082701"
+            "value": "62-00106.000 and 62-00107.000"
         },
         {
             "trait_type": "title_held_by",
@@ -141,9 +141,6 @@ Example valid metadata and documentation that would result in certification by t
         },
         {
             "trait_type": "legal",
-            "value": "Buyer and Seller hereby acknowledge and agree that each have become a party to the Assignment of Membership Interests by purchasing or selling this rNFT, which Assignment of Membership Interests is linked in the rNFT metadata and is effective as of the date and time of the transfer of the rNFT. Buyer and Seller hereby acknowledge and agree that, by signing the smart contract to transfer this rNFT for the consideration documented on the blockchain, each are effectuating the transfer of the Membership Interest described in the Assignment of Membership Interest from Seller to Buyer upon the terms and subject to the conditions contained therein. \nThe Current Owner, Tokr DAO, and any Tokr affiliates or contributors to the open-source software and systems involved in the Tokr Protocol and the minting of this rNFT hereby disclaim any representation or warranty relating to the sufficiency or adequacy of the title to the real estate owned by the entity specified in the rNFT metadata, and, by purchasing this rNFT, you hereby acknowledge that you are not relying on any such representations or warranties. Linked in the metadata is a copy of the Owner's Title Insurance Policy that was obtained at the time of acquisition (or subsequently as amended in the metadata, if applicable). The metadata and documentation submitted as part of rNFT certification and verification process is intended to make data collection easier to assist you in conducting your own due diligence. It is strongly encouraged that you conduct your own research and additional due diligence as it relates to the sufficiency and adequacy of the title to such real estate prior to acquiring this rNFT, which may include obtaining a title insurance policy. Any validations or certifications made by the Current Owner or Tokr DAO and any affiliates or contributors relating to the rNFT do not relate to the title of such real estate."
-        }
-    ]
-}
+            "value": "Buyer and Seller hereby acknowledge and agree that each have become a party to the Assignment of Membership Interests by purchasing or selling this rNFT, which Assignment of Membership Interests is linked in the rNFT metadata and is effective as of the date and time of the transfer of the rNFT. Buyer and Seller hereby acknowledge and agree that, by signing the smart contract to transfer this rNFT for the consideration documented on the blockchain, each are effectuating the transfer of the Membership Interest described in the Assignment of Membership Interest from Seller to Buyer upon the terms and subject to the conditions contained therein. \nThe Current Owner, Tokr DAO, and any Tokr affiliates or contributors to the open-source software and systems involved in the Tokr Protocol and the minting of this rNFT hereby disclaim any representation or warranty relating to the sufficiency or adequacy of the title to the real estate owned by the entity specified in the rNFT metadata, and, by purchasing this rNFT, you hereby acknowledge that you are not relying on any such representations or warranties. Linked in the metadata is a copy of the Owner's Title Insurance Policy that was obtained at the time of acquisition (or subsequently as amended in the metadata, if applicable). The metadata and documentation submitted as part of rNFT 
 ```
 
