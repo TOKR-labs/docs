@@ -60,9 +60,9 @@
 
 &#x20; 4.4 Fractional rNFTs&#x20;
 
-#### 5 [Governance & Tokenomics](table-of-contents.md#5-governance-and-tokenomics)&#x20;
+#### 5 [Governance & Tokenomics](governance-and-tokenomics.md)&#x20;
 
-#### 6 [Future Use Cases & Limitations](table-of-contents.md#6-future-use-cases-and-limitations)&#x20;
+#### 6 [Future Use Cases & Limitations](future-use-cases-and-limitations.md)&#x20;
 
 &#x20; 6.1 Future Use Cases&#x20;
 
@@ -74,7 +74,7 @@
 
 &#x20; 6.2 Limitations&#x20;
 
-#### 7 [Summary](table-of-contents.md#7-summary)&#x20;
+#### 7 [Summary](summary.md)&#x20;
 
 [References](references.md)&#x20;
 
