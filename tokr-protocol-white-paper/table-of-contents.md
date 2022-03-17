@@ -26,7 +26,7 @@
 
 &#x20; 2.3 Resolver&#x20;
 
-#### 3 Initial Tokr Market: DAO Owned Real Estate (DORE) Framework
+#### 3 [Initial Tokr Market: DAO Owned Real Estate (DORE) Framework](initial-tokr-market-dao-owned-real-estate-dore-framework.md)
 
 &#x20; 3.1 Initial Use Case: Debt Recapitalization
 
@@ -42,7 +42,7 @@
 
 &#x20; 3.3 DORE Implementation&#x20;
 
-#### 4 Protocol Implementation & Architecture&#x20;
+#### 4 [Protocol Implementation & Architecture](protocol-implementation-and-architecture.md)&#x20;
 
 &#x20; 4.1 DAO Tooling&#x20;
 
@@ -60,9 +60,9 @@
 
 &#x20; 4.4 Fractional rNFTs&#x20;
 
-#### 5 Governance & Tokenomics&#x20;
+#### 5 [Governance & Tokenomics](table-of-contents.md#5-governance-and-tokenomics)&#x20;
 
-#### 6 Future Use Cases & Limitations&#x20;
+#### 6 [Future Use Cases & Limitations](table-of-contents.md#6-future-use-cases-and-limitations)&#x20;
 
 &#x20; 6.1 Future Use Cases&#x20;
 
@@ -74,8 +74,8 @@
 
 &#x20; 6.2 Limitations&#x20;
 
-#### 7 Summary&#x20;
+#### 7 [Summary](table-of-contents.md#7-summary)&#x20;
 
-References&#x20;
+[References](references.md)&#x20;
 
-Disclaimer
+[Disclaimer](disclaimer.md)
