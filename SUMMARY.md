@@ -2,18 +2,9 @@
 
 * [TOKR Labs Docs](README.md)
 
-## Challenges/Solutions
-
-* [Challenges](challenges-solutions/challenges.md)
-* [Liquidity Pool/Escrow](challenges-solutions/liquidity-pool-escrow.md)
-
-***
-
-* [Metadata Standard](metadata-standard.md)
-
 ## Whitepaper
 
-* [Abstract](whitepaper/abstract.md)
+* [White Paper Abstract](whitepaper/white-paper-abstract.md)
 * [Table of Contents](whitepaper/table-of-contents.md)
 * [Introduction](whitepaper/introduction.md)
 * [The Tokr Protocol](whitepaper/the-tokr-protocol.md)
