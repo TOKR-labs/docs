@@ -4,6 +4,10 @@
 Tokr Protocol promo video
 {% endembed %}
 
+{% embed url="https://vimeo.com/689514709" %}
+Tokr Riptide Presentation
+{% endembed %}
+
 {% embed url="https://vimeo.com/689498052" %}
 Tokr Protocol Demo
 {% endembed %}
