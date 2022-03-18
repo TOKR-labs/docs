@@ -17,3 +17,6 @@ Tokr Protocol Demo
 {% file src=".gitbook/assets/Tokr Riptide Deck (1).pdf" %}
 
 {% file src=".gitbook/assets/Tokr Demo Video.mp4" %}
+
+* #### Tokr Website: [https://tokr.finance/ ](https://tokr.finance)
+* #### Tokr GitHub: [https://github.com/orgs/TOKR-labs/repositories/  ](https://github.com/orgs/TOKR-labs/repositories/)
