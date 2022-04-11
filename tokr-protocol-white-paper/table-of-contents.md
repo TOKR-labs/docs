@@ -22,7 +22,7 @@
 
 &#x20;   2.2.5 Borrower Incentives&#x20;
 
-&#x20;   2.2.6 Risk Framework & Liquidation&#x20;
+&#x20;   2.2.6 Risk Framework & Liquidation
 
 &#x20; 2.3 Resolver&#x20;
 
@@ -70,7 +70,9 @@
 
 &#x20;   6.1.2 Proof of Value Oracle&#x20;
 
-&#x20;   6.1.3 Other Asset Types&#x20;
+&#x20;   6.1.3 Decentralized Rating Agencies (DRAs)
+
+&#x20;   6.1.4 Other Asset Types&#x20;
 
 &#x20; 6.2 Limitations&#x20;
 

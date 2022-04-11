@@ -12,7 +12,15 @@ Decentralized Oracle networks enable the creation of hybrid programs, where on-c
 
 The Proof of Value Oracle will be a price feed that stores the most recent valuation of a property and estimates the real-time value of an asset. The oracle can make this information available to anyone seeking to understand the current value of an rNFT in real-time. The oracle could provide a risk score and incorporate financial reporting by borrowers, on-time payment information, market, and other information.&#x20;
 
-#### 6.1.3 Other Asset Types&#x20;
+#### 6.1.3 Decentralized Rating Agencies (DRAs)
+
+Traditional credit rating agencies (CRAs) operate by issuing and updating ratings on a variety of financial instruments, most notably debt. Debt issuers are incentivized to pay a CRA to conduct the due diligence required to issue a rating (to be clear – not for a particular rating itself) due to the reduction in uncertainty that such a rating provides the market. Debt issuances with higher ratings have less uncertainty than those with lower ratings and the market rewards or punishes the issuance by naturally adjusting its required yield accordingly.&#x20;
+
+Borrowers could interact with a DAO functioning as a CRA to replicate this process in a decentralized manner. The DAO would perform its due diligence on a reserve in exchange for a fee which would be allocated to DAO members in whatever manner the DAO agrees is appropriate. A rating that passes the approval process would then be associated with the specific reserve representing a particular issuance.&#x20;
+
+DRAs are incentivized to provide the most accurate ratings as possible in order to continue to attract business from borrowers. A DRA that provides inaccurate or inconsistent ratings would be discounted by the market over time to reflect that increased uncertainty around the rating itself, thereby increasing the market determined rate. On the contrary, accurate and consistent DRAs would naturally rise to be among the most competitive due the value they provide the market and, in turn, the borrower.
+
+#### 6.1.4 Other Asset Types&#x20;
 
 The Tokr protocol establishes a foundation for Tokr Markets that can be applied to asset categories other than real estate. We chose to first focus on real estate, but intend to expand into other use cases such as financing private companies and factoring receivables. Each asset type will have its own framework and standards for the rNFT minting process and will be customized to fit the nuances unique to each use case.&#x20;
 
