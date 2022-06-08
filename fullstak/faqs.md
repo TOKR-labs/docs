@@ -1,0 +1,3 @@
+# FAQs
+
+These are FAQs
